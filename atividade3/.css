@@ -12,6 +12,7 @@ body {
 img {
    margin-left: 62px;
    border-radius: 20px; 
+   box-shadow: orange 8px 8px;
 }
 
 .img {
